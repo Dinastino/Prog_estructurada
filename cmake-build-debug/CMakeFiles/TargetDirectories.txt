@@ -1,0 +1,3 @@
+C:/Users/carlo/Documentos/Universitatem/Sup_/Estrucuturas/cmake-build-debug/CMakeFiles/Estrucuturas.dir
+C:/Users/carlo/Documentos/Universitatem/Sup_/Estrucuturas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/carlo/Documentos/Universitatem/Sup_/Estrucuturas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
